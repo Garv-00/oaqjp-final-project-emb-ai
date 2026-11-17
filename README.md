@@ -1,3 +1,3 @@
-# Repository for final project
-This is The project for IBM-Certificate 
-Emotion Detector
+# Final project
+
+Emotion Detector application built with the Watson NLP library and Flask.
